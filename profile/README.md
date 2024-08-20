@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-*OpenDevWorks is a hub for open-source projects.*
+OpenDevWorks is a hub for open-source projects.
  
 The goal is to create a community that build tools, libraries, and frameworks that empower developers, streamline workflows, provide better developer experience with known opensource tools and foster innovations.
 
