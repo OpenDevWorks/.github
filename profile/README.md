@@ -12,7 +12,7 @@
 -->
 OpenDevWorks is a hub for open-source projects.
  
-The goal is to create a community that build tools, libraries, and frameworks that empower developers, streamline workflows, provide better developer experience with known opensource tools and foster innovations.
+The goal is to build tools, libraries, and frameworks that empower developers, streamline workflows, provide better developer experience with known open-source tools and foster innovations.
 
 
 
