@@ -15,7 +15,7 @@ I'm Nana Emmanuel but I often go by Nael.
 OpenDevWorks is a hub for my open-source projects, with the goal to build tools, libraries (and hopefully frameworks) that enhance developers day to day workflows, and provide a better developer experience with known tools.
 You could say it's a hub for working on ideas to solve issues I face when developing or working with some open-source tools that I believe can benefit the developer ecosystem. 
 
-If you like some of my projects, remember to give a star and contributions are always welcomed.
+If you like my work, remember to give a star and contributions are always welcomed.
  
 
 
