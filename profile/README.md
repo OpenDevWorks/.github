@@ -11,7 +11,7 @@
 ## Hi there 👋
 
 
-OpenDevWorks is a hub for (https://github.com/naelcodes)[my] open-source projects, with the goal to build tools, libraries (and hopefully frameworks) that enhance developer's day to day workflows, and provide a better developer experience with known open-source tools.
+OpenDevWorks is a hub for [my](https://github.com/naelcodes) open-source projects, with the goal to build tools, libraries (and hopefully frameworks) that enhance developer's day to day workflows, and provide a better developer experience with known open-source tools.
 You could say it's a hub for working on ideas to solve issues I face when developing or working with some open-source tools that I believe can benefit the developer's community. 
 
 If you like my work, remember to give a star and contributions are always welcomed.
